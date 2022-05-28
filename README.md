@@ -40,7 +40,7 @@ git push
 10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в    формате JSON.
 
 ```bash
-vim new.json` ---> input data ---> esc ---> enter ":wq"
+vim new.json    ---> input data ---> esc ---> enter ":wq"
 ```
 ```bash
 #"for example"
