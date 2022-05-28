@@ -41,7 +41,8 @@ git push
 
 ```bash
 vim new.json` ---> input data ---> esc ---> enter ":wq"
-
+```
+```bash
 #"for example"
 {
 	"Full Name": "Bragin Andrei Aleksandrovich" ,
@@ -63,7 +64,8 @@ touch preferences.json
 13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы        посетить) в формате JSON.
 ```bash
 vim preferences.json ---> insert data ---> esc ---> enter ":wq"
-
+```
+```bash
 #"for example"
 {
 	"favorite_movie": "Predator",
@@ -78,7 +80,8 @@ vim preferences.json ---> insert data ---> esc ---> enter ":wq"
 
 ```bash
 touch skills.json
-
+```
+```bash
 #"for example"
 {
 	"Skill1":"Testing Theory, SDLC, STLC",
@@ -151,7 +154,8 @@ git add . && git commit -m "comment" && git push
 
 ```bash
 Add file --> Create new file --> Name: bug_report.json
-
+```
+```bash
 #"for example"
 {
   "Environment":"<Description of environment>",
@@ -218,7 +222,8 @@ git push
  27. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.
 ```bash
 vim new.xml
-
+```
+```bash
 #for exapmle
 <?xml version="1.0" encoding="utf-8"?>
 <information_about_yourself>
@@ -239,7 +244,8 @@ touch preferences.xml
  30. В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.
 ```bash
 vim preferences.xml
-
+```
+```bash
 #for example
 <?xml version="1.0" encoding="utf-8"?>
 <my_preferences>
@@ -253,7 +259,8 @@ vim preferences.xml
  31. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
 ```bash
 vim skills.xml
-
+```
+```bash
 #for example
 <?xml version="1.0" encoding="UTF-8"?>
 <Skills_I_Learn>
@@ -297,7 +304,8 @@ git push
  34. На веб интерфейсе создать файл bug_report.xml.
 ```bash
 Add file --> Create new file --> Name: bug_report.xml
-
+```
+```bash
 #for example
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report_structure>
@@ -365,7 +373,8 @@ git push
  7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.
 ```bash
 vim new.txt
-
+```
+```bash
 1. full nsme: Bragin Andrei Aleksandrovich.
 2. Age: 47.
 3. number of pets: 1.
@@ -382,7 +391,8 @@ touch preferences.txt
  10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.
 ```bash
 vim preferences.txt
-
+```
+```bash
 My preferences:
 
 1)favorite moovies: "The Green Mile";
@@ -394,7 +404,8 @@ My preferences:
  11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
 ```bash
 vim skills.txt
-
+```
+```bash
 1. Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.
 2. Что такое клиент-серверная архитектура.
 3. HTTP Методы запросов на сервер.
@@ -434,7 +445,8 @@ git push
  14. На веб интерфейсе создать файл bug_report.txt.
 ```bash
 Add file --> Create new file --> Name: bug_report.txt
-
+```
+```bash
 Environment: <your environment>
 ID: 1
 Summury: <What? Where? Why?>
