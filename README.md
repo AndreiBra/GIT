@@ -153,7 +153,7 @@ or
 ```
 15. Отправить сразу 2 файла на внешний репозиторий.
 ```bash
-git add . && git commit -m add 2 file" && git push
+git add . && git commit -m "add 2 file" && git push
 ```
 
 16. На веб интерфейсе создать файл bug_report.json.
