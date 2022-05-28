@@ -30,7 +30,7 @@ git add new.json
 8. Закоммитить файл.
 
 ```bash
-git commit -m "comment"
+git commit -m "the first file json"
 ```
 9. Отправить файл на внешний GitHub репозиторий.
 ```bash
@@ -53,7 +53,7 @@ vim new.json` ---> input data ---> esc ---> enter ":wq"
 ```
 11. Отправить изменения на внешний репозиторий.
 ```bash
-git commit -am "comment" && git push
+git commit -am "add name age and etc" && git push
 ```
 
 12. Создать файл preferences.json
@@ -68,7 +68,7 @@ vim preferences.json ---> insert data ---> esc ---> enter ":wq"
 ```bash
 #"for example"
 {
-	"favorite_movie": "Predator",
+	"favorite_movie": " The Predator",
 	"favorite_series": "House M.D.",
 	"favorite_food": "Basmati rice",
 	"favorite_time_of_the_year": "summer",
@@ -147,7 +147,7 @@ or
 ```
 15. Отправить сразу 2 файла на внешний репозиторий.
 ```bash
-git add . && git commit -m "comment" && git push
+git add . && git commit -m add 2 file" && git push
 ```
 
 16. На веб интерфейсе создать файл bug_report.json.
@@ -213,7 +213,7 @@ git add new.xml
 ```
  25. Закоммитить файл.
 ```bash
-git commit -m "comment"
+git commit -m "add new file"
 ```
  26. Отправить файл на внешний GitHub репозиторий.
 ```bash
@@ -235,7 +235,7 @@ vim new.xml
 ```
  28. Отправить изменения на внешний репозиторий.
 ```bash
-git commit -am "comment"` --> git push
+git commit -am "add info in fale "` --> git push
 ```
  29. Создать файл preferences.xml
 ```bash
@@ -295,7 +295,7 @@ vim skills.xml
 ```
  32. Сделать коммит в одну строку.
 ```bash
-git add . && git commit -m "comment"
+git add . && git commit -m "add skills"
 ```
  33. Отправить сразу 2 файла на внешний репозиторий.
 ```bash
@@ -364,7 +364,7 @@ git add new.txt
 ```
  5. Закоммитить файл.
 ```bash
-git commit -m "comment"
+git commit -m "add txt file"
 ```
  6. Отправить файл на внешний GitHub репозиторий.
 ```bash
@@ -382,7 +382,7 @@ vim new.txt
 ```
  8. Отправить изменения на внешний репозиторий.
 ```bash
-git commit -am "comment"` --> `git push
+git commit -am "add name in txt file"` --> `git push
 ```
  9. Создать файл preferences.txt
 ```bash
