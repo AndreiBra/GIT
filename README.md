@@ -199,6 +199,9 @@ Commit changes
 git pull
 ```
 ___
+
+## Видео по вышеуказанному заданию можно посмотреть [здесь](https://youtu.be/K3hRT06ROgY)
+___
 # XML [(XML Repository)](https://github.com/AndreiBra/XML)
 ___
  21. Создать внешний репозиторий c названием XML.    
