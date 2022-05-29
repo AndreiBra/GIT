@@ -243,7 +243,7 @@ vim new.xml
 ```
  28. Отправить изменения на внешний репозиторий.
 ```bash
-git commit -am "add info in fale "` --> git push
+git commit -am "add info in fale "   --> git push
 ```
  29. Создать файл preferences.xml
 ```bash
@@ -396,7 +396,8 @@ vim new.txt
 ```
  8. Отправить изменения на внешний репозиторий.
 ```bash
-git commit -am "add name in txt file"` --> `git push
+git commit -am "add name in txt file"  
+--> git push
 ```
  9. Создать файл preferences.txt
 ```bash
