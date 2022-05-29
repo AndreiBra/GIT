@@ -4,7 +4,7 @@
 3. На против каждого действия - напишите команду в GitBash
 
 ___
-# JSON
+# JSON [(JSON Repository)](https://github.com/AndreiBra/JSON)
 ___
 
 4. Создать внешний репозиторий c названием JSON.
@@ -199,7 +199,7 @@ Commit changes
 git pull
 ```
 ___
-# XML
+# XML [(XML Repository)](https://github.com/AndreiBra/XML)
 ___
  21. Создать внешний репозиторий c названием XML.    
 ```bash
@@ -354,7 +354,7 @@ git pull
 
 ___
 
-# TXT
+# TXT [(TXT Repository)](https://github.com/AndreiBra/TXT)
 ___
 
  1. Создать внешний репозиторий c названием TXT.
