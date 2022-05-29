@@ -354,7 +354,10 @@ Commit changes
 ```bash
 git pull
 ```
+___
 
+
+## Видео по вышеуказанному заданию можно посмотреть [здесь](https://youtu.be/DEAemHvkV3E)
 ___
 
 # TXT [(TXT Repository)](https://github.com/AndreiBra/TXT)
@@ -500,3 +503,6 @@ Commit changes
 ```bash
 git pull
 ```
+___
+## Видео по вышеуказанному заданию можно посмотреть [здесь](https://youtu.be/JcyNMygBx8w)
+___
